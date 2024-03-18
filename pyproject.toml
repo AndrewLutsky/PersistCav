@@ -1,0 +1,18 @@
+[project]
+name = "PersistCav"
+version = "0.0.1"
+authors = [
+{ name = "Andrew Lutsky", email = "andrew.lutsky19@gmail.com" }
+]
+
+description = "TDA to create pocket descriptors"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/AndrewLutsky/PersistCav"
